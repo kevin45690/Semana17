@@ -1,0 +1,28 @@
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.AssemblyInfoInputs.cache
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.AssemblyInfo.cs
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.csproj.CoreCompileInputs.cache
+C:\Final ciclo 2025\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.exe
+C:\Final ciclo 2025\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.deps.json
+C:\Final ciclo 2025\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.runtimeconfig.json
+C:\Final ciclo 2025\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.dll
+C:\Final ciclo 2025\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.pdb
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.dll
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\refint\zoologico 17.dll
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.pdb
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.genruntimeconfig.cache
+C:\Final ciclo 2025\zoologico 17\zoologico 17\obj\Debug\net9.0\ref\zoologico 17.dll
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.exe
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.deps.json
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.runtimeconfig.json
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.dll
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\bin\Debug\net9.0\zoologico 17.pdb
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.dll
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\refint\zoologico 17.dll
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.pdb
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\zoologico 17.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Desktop\zoologico 17\zoologico 17\obj\Debug\net9.0\ref\zoologico 17.dll
